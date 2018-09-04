@@ -1,3 +1,12 @@
+#UI Angular Project Execution:
+
+1. Checkout the project.
+2. Goto the project directory from command prompt.
+3. Run ng serve.
+4. access http://localhost:4200
+
+All the branches created for public API will be displayed. Click on branch id hyperlink to access the commit detail.  In spring boot i have configured to retrieve latest commit for that branch. if need we can increase (per_page_limit) property value to 5 or 10 and see more number of commits. 
+
 # GitHubRepo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
